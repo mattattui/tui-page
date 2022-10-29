@@ -1,5 +1,6 @@
 import './style.css'
 
+// Load and globally register the custom elements
 import TuiPage from './src/tui-page';
 import PageTitle from './src/components/page-title';
 import PageText from './src/components/page-text';
