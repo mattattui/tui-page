@@ -1,0 +1,34 @@
+{
+    "content": [
+        {
+            "component": "page-title",
+            "children": [],
+            "slots": {
+                "en": {
+                    "title": "Sup world 2"
+                },
+                "fr": {
+                    "title": "Salut monde 2"
+                }
+            }
+        },
+        {
+            "component": "page-row",
+            "children": [
+                {
+                    "component": "page-text",
+                    "children": [],
+                    "slots": {
+                        "en": {
+                            "textHTML": "<p>Blah</p><p>More blah</p>"
+                        },
+                        "fr": {
+                            "textHTML": "<p>Bla</p><p>Plus de blabla</p>"
+                        }
+                    }
+                }
+            ],
+            "slots": {"en": {}, "fr": {}}
+        }
+    ]
+}
